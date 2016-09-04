@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-04 14:15+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: .\mysite\settings.py:152 .\mysite\settings.py:175
+msgid "en"
+msgstr "英文"
+
+#: .\mysite\settings.py:154
+msgid "zh-cn"
+msgstr "中文"
+
+#: .\mysite\settings.py:182
+msgid "zh-CN"
+msgstr "中文"
+
+#: .\mysite\templates\test.html:4
+msgid "translation"
+msgstr "翻译"
+
+#: .\mysite\templates\test.html:5
+msgid "This is the p element."
+msgstr "这是段落标记"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Page"
+msgstr "页"
+
+msgid "Page with Feature"
+msgstr "特性页"
+
+msgid "Pages"
+msgstr "页面"
+
+msgid "New Page"
+msgstr "新页面"
+
+msgid "New page"
+msgstr "新页面"
+
+msgid "Add Page"
+msgstr "添加页面"
+
+msgid "Edit this Page"
+msgstr "编辑页面"
+
+msgid "Page settings"
+msgstr "页面设置"
+
+msgid "Unpublish page"
+msgstr "未发布页面"
+
+msgid "Delete page"
+msgstr "删除页面"
+
+msgid "Save as Page Type"
+msgstr "页面类型保存为"
+
+msgid "Advanced settings"
+msgstr "高级设置"
+
+msgid "Publishing dates"
+msgstr "发布日期"
+
+msgid "Hide in navigation"
+msgstr "从导航中隐藏"
+
+msgid "Disable toolbar"
+msgstr "关闭工具栏"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Copy"
+msgstr "拷贝"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Create Alias"
+msgstr "创建别名"
+
+msgid "Next"
+msgstr "下一步"
+
+msgid "logout"
+msgstr "登出"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Redo"
+msgstr "重复"
+
+msgid "Templates"
+msgstr "模板"
+
+msgid "Expand all"
+msgstr "全部展开"
+
+msgid "Create a new page next to the current page."
+msgstr "在当前页后面创建新页"
+
+msgid "New Sub Page"
+msgstr "新子页面"
+
+msgid "New sub page"
+msgstr "新子页面"
+
+msgid "New Sub Page."
+msgstr "新子页面"
+
+msgid "Duplicate this Page"
+msgstr "复制页面"
+
+msgid "Create a page below the current page."
+msgstr "在当前页面下创建新页"
+
+msgid "View published"
+msgstr "查看已发布"
+
+msgid "Content"
+msgstr "显示内容"
+
+msgid "Structure"
+msgstr "显示结构"
+
+
+msgid "View history"
+msgstr "查看历史"
+
+msgid "Authentication and Authorization"
+msgstr "授权"
+
+msgid "Authentication and Authorization administration"
+msgstr "授权管理"
+
+msgid "Users"
+msgstr "用户"
+
+msgid "User settings"
+msgstr "用户设置"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "coutryside dog"
+msgstr "田园犬"
+
+msgid "Countryside dog Homepage"
+msgstr "田园犬主页"
+
+
+
+

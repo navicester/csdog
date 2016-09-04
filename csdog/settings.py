@@ -53,7 +53,10 @@ WSGI_APPLICATION = 'csdog.wsgi.application'
 # Internationalization
 # https://docs.djangoproject.com/en/1.8/topics/i18n/
 
+#LANGUAGE_CODE = 'en'
+#LANGUAGE_CODE = 'zh-hans'
 LANGUAGE_CODE = 'zh-cn'
+#LANGUAGE_CODE = 'zh-CN'
 
 TIME_ZONE = 'Asia/Shanghai'
 
@@ -158,6 +161,10 @@ LANGUAGES = (
     ('zh-cn', gettext('zh-cn')),
     ('en', gettext('en')),
 )
+LOCALE_PATHS = (
+    os.path.join(BASE_DIR, 'locale/'),
+)
+print LOCALE_PATHS
 
 CMS_LANGUAGES = {
     ## Customize this

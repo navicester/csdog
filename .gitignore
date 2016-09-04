@@ -4,6 +4,7 @@ lwc.sublime-workspace
 *.pyc
 .pydevproject
 .project
+static/
 
 #.gitignore
 .DS_Store
